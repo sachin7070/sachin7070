@@ -1,9 +1,24 @@
+Git hub about 2
+
 # 💫 About Me:
 👋 Hey, I'm Sachin Kumar – a B.Tech CS student at Technocrats Institute of Technology, Bhopal. Passionate about coding and turning ideas into reality.Let's connect and code something awesome together! 🚀<br><br><br>
 
 
-###
+## 🌐 Socials:
+<div align="left">
+  <a href="https://www.linkedin.com/in/sachin7070/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sachin7070" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/sachinkushwaha7070/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
+
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -22,19 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sachin7070/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sachin7070" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/sachinkushwaha7070/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sachin7070&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachin7070&theme=dark&hide_border=false)<br/>
@@ -50,3 +53,8 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sachin7070&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
