@@ -1,4 +1,3 @@
-Git hub about 2
 
 # 💫 About Me:
 👋 Hey, I'm Sachin Kumar – a B.Tech CS student at Technocrats Institute of Technology(Excellence), Bhopal. Passionate about coding and turning ideas into reality.Let's connect and code something awesome together! 🚀<br><br><br>
